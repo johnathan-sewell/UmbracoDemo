@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>bodyText</string>
+    </key>
+    <value><![CDATA[The Simple Starter Kit only scratches the surface of what's possible with Umbraco. Below the Simple Starter Kit and its modules lies a great architecture that lets you implement whatever you need.
+With Umbraco you've finally got a solid, open and reliable platform for websites as basic as the Simple site, and Umbraco can be rapidly expanded to support multi-language websites, collaboration platforms and intra/extranets, to name just a few.
+Advanced functionality is created with Umbraco macros, built with XSLT and Umbraco's award-winning .NET integration, including full support for any .NET User or Custom control. Create and integrate your own .NET macros in mere minutes with point and click simplicity. Simply copy your controls to the Umbraco website, go to the Developer section and create a new macro, selecting your control from the list.
+You can also use Microsoft's Razor syntax to quickly add dynamic functionality to your site.
+We've also gathered the best community macros into a repository that's also accessed from the Developer section, in the Packages area. You can find more information about creating macros, on the Umbraco website.
+The sky is the limit with Umbraco, and you have the benefit a friendly community, training, and guaranteed support. Find out how to get help.]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1072]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Go further]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-10-17T14:37:20]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[admin]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1063,1070,1072]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[umbTextpage]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1070]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1063,1070,1072]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[umbTextpage]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1072]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

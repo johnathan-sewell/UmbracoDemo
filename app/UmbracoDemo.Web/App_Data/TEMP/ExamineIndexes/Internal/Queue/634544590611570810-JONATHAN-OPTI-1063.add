@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>bodyText</string>
+    </key>
+    <value><![CDATA[The Simple Starter Kit gives you a bare-bones website that introduces you to a set of well-defined conventions for building an Umbraco website.
+The Simple website is very basic in form and provided without any design or functionality - unless you add a Skin, of course. By installing the Simple Starter Kit, you'll begin with a minimal site built on best practices. You'll also enjoy the benefits of speaking the same "language" as the rest of the Umbraco community by using common properties and naming conventions.
+Now that you know what the Simple site is, it is time to get started using Umbraco.]]></value>
+  </item>
+  <item>
+    <key>
+      <string>siteDescription</string>
+    </key>
+    <value><![CDATA[Off to a great start]]></value>
+  </item>
+  <item>
+    <key>
+      <string>siteName</string>
+    </key>
+    <value><![CDATA[Business site]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1063]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Business Site]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-10-17T14:37:20]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[admin]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1063]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[umbHomepage]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[-1]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1063]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[umbHomepage]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1063]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

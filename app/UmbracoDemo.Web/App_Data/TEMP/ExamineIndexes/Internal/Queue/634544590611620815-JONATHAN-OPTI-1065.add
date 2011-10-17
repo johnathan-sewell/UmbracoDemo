@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>bodyText</string>
+    </key>
+    <value><![CDATA[
+Nam consectetur risus quis diam dignissim convallis. Donec
+congue arcu at ligula venenatis facilisis. Donec tincidunt, augue
+vel venenatis suscipit, ipsum orci pretium lacus, et tempor felis
+nisi eu diam. Fusce vel turpis quis nisl viverra pharetra sit amet
+et risus. Donec interdum ullamcorper sodales. Mauris feugiat velit
+rhoncus sapien sagittis venenatis quis non purus. Cras ac arcu
+velit.
+
+Class aptent taciti sociosqu ad litora torquent per conubia
+nostra, per inceptos himenaeos. Etiam non tortor nec risus laoreet
+auctor. Mauris ipsum ligula, suscipit fermentum interdum id,
+facilisis eu felis. Proin ut porttitor tortor. Proin quis pulvinar
+urna. Nullam cursus feugiat feugiat. Praesent iaculis lacus at arcu
+feugiat suscipit. Proin elementum tortor vitae massa euismod
+tempus. Donec adipiscing nunc lacinia felis aliquam mattis. Ut
+ipsum nisl, ultrices nec vehicula vel, blandit vel nibh. Nam augue
+magna, sodales eu consectetur vestibulum, consequat in libero.
+Nulla facilisi. Nunc id ligula urna. Sed tempus bibendum eros, a
+posuere ante varius eu. Mauris quis neque nec felis laoreet
+eleifend. Nullam bibendum molestie bibendum. Aenean vestibulum
+sodales orci sed mollis.
+
+Duis tempor scelerisque condimentum. Proin convallis placerat
+odio, at dictum risus tempor id. Maecenas vel erat ac enim
+convallis vehicula at et mi. Fusce ut faucibus odio. Vestibulum
+pharetra mollis sem, at viverra nunc facilisis non. Vivamus
+vulputate nibh et ligula dictum interdum. Aenean at libero et quam
+ultricies dignissim in id tellus. Curabitur tincidunt nibh
+ullamcorper ligula dapibus volutpat. Vestibulum neque augue,
+blandit vitae ornare at, facilisis at sapien. Lorem ipsum dolor sit
+amet, consectetur adipiscing elit. Curabitur non mollis lacus. Ut
+sed pulvinar nulla.
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>introduction</string>
+    </key>
+    <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id enim vel metus dignissim fermentum. Donec molestie pulvinar ultricies. Donec ullamcorper facilisis mattis. Sed id condimentum dui. Vivamus ornare congue facilisis. Nulla arcu lorem, sollicitudin at tincidunt nec, congue in dolor. Morbi mattis magna non risus convallis non dignissim sapien dictum.]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1065]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Another record year]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-10-17T14:37:20]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[admin]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1063,1064,1065]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[umbNewsArticle]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1064]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1063,1064,1065]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[umbNewsArticle]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1065]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

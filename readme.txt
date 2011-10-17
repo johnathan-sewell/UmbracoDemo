@@ -1,0 +1,4 @@
+CMS login
+---------
+admin
+password

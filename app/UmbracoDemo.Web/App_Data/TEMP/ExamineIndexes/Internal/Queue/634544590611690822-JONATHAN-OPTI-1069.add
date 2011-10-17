@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>bodyText</string>
+    </key>
+    <value><![CDATA[
+Hi there! , welcome to your new Umbraco powered
+blog. Before you start posting away, there's a handful of things we
+thought you should know:
+
+
+
+There is a comprehensive and detailed usage and configuration
+manual, which covers everything about setting up this blog and
+about blogging in general
+
+Download the
+usage guide
+
+
+
+This package is open source and developement is community
+driven. So if you have an idea for improvement or wish to be a part
+of developing this package you should join the conversaion.
+
+Go to
+the Blog 4 Umbraco project page on our.umbraco.org
+
+
+
+You can change the appearance of this blog by changing the skin
+in the umbraco back-end. The skins are powered by the umbraco
+community. If you wish to do your own skin or just want to tweak
+the current one, you can find guidance in the skinners guide
+
+Download the
+skinners manual
+
+
+
+Chainging the skin is just the first step, everything is
+extendable and hackable. This blog uses open standards and follows
+umbraco best practices, so everything can be tweaked. Want to know
+how to get started? Ask the friendly community at
+our.umbraco.org
+
+Go to our.umbraco.org
+community
+
+
+]]></value>
+  </item>
+  <item>
+    <key>
+      <string>closeComments</string>
+    </key>
+    <value><![CDATA[1]]></value>
+  </item>
+  <item>
+    <key>
+      <string>PostDate</string>
+    </key>
+    <value><![CDATA[2010-09-07T00:00:00]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1069]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Company blog post]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-10-17T14:37:20]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[admin]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1063,1068,1069]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[umbBlogPost]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1068]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1063,1068,1069]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[umbBlogPost]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1069]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <string>bodyText</string>
+    </key>
+    <value><![CDATA[You've installed Umbraco and the basic Simple website.
+Edit the text on the homepage and create a site structure by adding new texpages to your site. This is all done in the Content section.
+If you find the editing options provided by the Simple site too limited for you needs, simply add more properties to the page by going to the Settings section, expanding the Document Types item and adding new properties on the Generic Properties tab. You can find more information about document types and properties at the Umbraco website.
+You'll probably want to personalize your site by changing the current design. This is also done in the Settings section, either by editing the CSS styles and HTML templates or by selecting and applying a Skin. Umbraco uses master templates, so the main, common markup is placed in the Starterkit Master template, while the Homeage and Textpage have separate templates for their unique layouts. You can find more information about templates and css in umbraco at the umbraco website.
+Once you're happy with your site's design, you might want to add more functionality, such as automated navigation. This is done by installing Umbraco modules.]]></value>
+  </item>
+  <item>
+    <key>
+      <string>umbracoNaviHide</string>
+    </key>
+    <value><![CDATA[0]]></value>
+  </item>
+  <item>
+    <key>
+      <string>id</string>
+    </key>
+    <value><![CDATA[1073]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeName</string>
+    </key>
+    <value><![CDATA[Getting started]]></value>
+  </item>
+  <item>
+    <key>
+      <string>updateDate</string>
+    </key>
+    <value><![CDATA[2011-10-17T14:37:20]]></value>
+  </item>
+  <item>
+    <key>
+      <string>writerName</string>
+    </key>
+    <value><![CDATA[admin]]></value>
+  </item>
+  <item>
+    <key>
+      <string>path</string>
+    </key>
+    <value><![CDATA[-1,1063,1070,1073]]></value>
+  </item>
+  <item>
+    <key>
+      <string>nodeTypeAlias</string>
+    </key>
+    <value><![CDATA[umbTextpage]]></value>
+  </item>
+  <item>
+    <key>
+      <string>parentID</string>
+    </key>
+    <value><![CDATA[1070]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__Path</string>
+    </key>
+    <value><![CDATA[-1,1063,1070,1073]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeTypeAlias</string>
+    </key>
+    <value><![CDATA[umbTextpage]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__NodeId</string>
+    </key>
+    <value><![CDATA[1073]]></value>
+  </item>
+  <item>
+    <key>
+      <string>__IndexType</string>
+    </key>
+    <value><![CDATA[content]]></value>
+  </item>
+</dictionary>
